@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    color: yellow;
+    font-size:40px;
+    margin: 0 auto;
+    width: fit-content;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#botones{
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+    
+    
+}
+#botones button{
+    margin: 50px;
+}
+#ronda{
+    color: white;
+    font-size: 20px;
+    border:2px solid white;
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+.resultado{
+    color: yellow;
+    font-size: 20px;
+    margin: 0 auto;
+    width: fit-content;
+}
